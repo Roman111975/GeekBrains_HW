@@ -21,4 +21,5 @@ def exe_5():
                     res += int(i)
             except ValueError:
                 print('Enter number or *')
+
         print(f'Sum is {res}')
